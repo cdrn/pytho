@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test the blocktree functionality Instantiating a blockchain makes a genesis block 1`] = `
+BlockTree {
+  "root": Object {
+    "depth": 0,
+    "parent": null,
+    "post": Object {
+      "content": "the ur post",
+    },
+    "previousHash": "1",
+    "proof": "100",
+    "timestamp": 1611168618640,
+  },
+}
+`;
